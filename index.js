@@ -1,1 +1,1 @@
-console.log('Hey you! I know it is challenging, but you can do it!')
+console.log('Hey you! I know it is challenging, but you can do it!Go for it!')
