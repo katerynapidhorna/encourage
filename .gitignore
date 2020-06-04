@@ -1,3 +1,4 @@
 config.js
 keys/
 secrets/
+node_modules/

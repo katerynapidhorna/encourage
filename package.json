@@ -1,0 +1,23 @@
+{
+  "name": "encourage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katerynapidhorna/encourage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katerynapidhorna/encourage/issues"
+  },
+  "homepage": "https://github.com/katerynapidhorna/encourage#readme",
+  "dependencies": {
+    "to-title-case": "^1.0.0"
+  }
+}
